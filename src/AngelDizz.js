@@ -33,3 +33,6 @@ import { Vector2D } from { "https://github.com/Agsgt1/AngelTaT/" }
 export function print(x) {
   console.log.bind(x)
 }
+//just in case {
+import { "./Claire.js" }
+//}
